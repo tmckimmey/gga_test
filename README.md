@@ -1,10 +1,13 @@
 # PYTHON EXERCISES
 
+## Requirements
+Package pytz is required. See *requirement.txt*. 
+
 ## Summary
 
 For exercise 1 and 2, run python3 main.py
 
-For exercise 3, run jtl_anayzle.py
+For exercise 3, run jtl_analyze.py
 
 ## Exercise 1
 Create a python method that takes arguments int X and int Y,
