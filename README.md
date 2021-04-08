@@ -1,7 +1,13 @@
 # PYTHON EXERCISES
 
-## Requirements
+## Requirements/startup
 Package pytz is required. See *requirement.txt*. 
+
+```bash
+python3 -m venv venv
+. venv/bin/activate
+pip install -r rquirements.txt
+```
 
 ## Summary
 
